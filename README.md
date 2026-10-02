@@ -1,0 +1,2 @@
+# premium-ta-pipeline-001-recruiting-pipeline-dashboard
+Your recruiting pipeline is scattered across spreadsheets, emails, and browser tabs—costing you top talent and sanity. The Recruiting Pipeline Dashboard Template transforms Notion into a centralized recruiting command center where every candidate, stage, and deadline is visible at a glance.  Stop losing candidates in the chaos of disorganized hirin
